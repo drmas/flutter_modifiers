@@ -1,7 +1,6 @@
 name: flutter_modifiers
 description: A collection of useful extension function that make your flutter code a lot cleaner.
 version: 0.0.1
-author: Mohamed Shaban
 homepage: https://github.com/drmas/flutter_modifiers
 
 environment:
