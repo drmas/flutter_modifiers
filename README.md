@@ -90,7 +90,7 @@ Import the library in your flutter file, then use the extensions function on any
 
 ```swift
 import 'package:flutter/material.dart';
-import 'package:flutter_modifiers/modifiers.dart'; // <== add this import
+import 'package:flutter_modifiers/flutter_modifiers.dart'; // <== add this import
 
 void main() {
   runApp(MyApp());
