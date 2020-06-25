@@ -1,3 +1,4 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.1] - First release
 
-* TODO: Describe initial release.
+- Add layout as well as transformation extensions
+- Publish to https://pub.dev/
